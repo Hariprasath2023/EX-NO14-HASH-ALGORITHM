@@ -1,10 +1,6 @@
 # EX-NO:14-HASH-ALGORITHM
 
 
-## NAME:Mohammed Faizal J
-## REG NO:212222100027
-
-
 ## AIM:
 To implement HASH ALGORITHM
 
